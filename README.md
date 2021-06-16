@@ -1,18 +1,5 @@
 # Projet - Bataille navale
 
-## Fichier .gitconfig
-
-A àjouter dans votre fichier de config:
-
-[alias]
-
-lg = log --graph --pretty=tformat:'%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%an %ar)%Creset'
-
-[pull]
-
-rebase = true
-
-
 ## Procédure sur Git :
 
 Sur master :
