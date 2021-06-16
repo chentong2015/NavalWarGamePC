@@ -1,4 +1,4 @@
-# Projet LO23 - Bataille navale
+# Projet - Bataille navale
 
 ## Fichier .gitconfig
 
